@@ -11,7 +11,7 @@ A **full-stack job board application** that fetches job listings from **LinkedIn
 ✅ **FastAPI Backend deployed on Render**  
 ✅ **React Frontend deployed on Vercel**  
 ✅ **Caching enabled using Upstash Redis for faster responses** 
-⚠️ **Note: As my backend is hosted on free tier on Render, it may take some time to get results.
+⚠️ **Note: As my backend is hosted on free tier on Render, it may take some time to get results.**
 
 ---
 
