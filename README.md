@@ -44,8 +44,8 @@ A **full-stack job board application** that fetches job listings from **LinkedIn
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/YOUR_USERNAME/job-board.git
-cd job-board/backend
+git clone [https://github.com/YOUR_USERNAME/job-board.git](https://github.com/vish9431/ProductSpace.git)
+cd backend
 ```
 
 ### 2. Set Up a Virtual Environment
@@ -65,7 +65,7 @@ Backend will be live at `http://localhost:8000`
 
 ### 1. Go to the Frontend Directory
 ```sh
-cd ../frontend
+cd frontend
 ```
 
 ### 2. Install Dependencies
